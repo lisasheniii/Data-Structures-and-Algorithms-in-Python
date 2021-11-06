@@ -6,7 +6,7 @@ My Notebooks to [Jovian](https://jovian.ai/learn/data-structures-and-algorithms-
 
 | Course        | Description           |
 | ------------- |:-------------|
-| [Lesson 1](https://github.com/lisasheniii/Data-Structures-and-Algorithms-in-Python/blob/main/python-binary-search.ipynb)        | Binary Search, Linked Lists and Complexity      |
+| [Lesson 1](https://github.com/lisasheniii/Data-Structures-and-Algorithms-in-Python/blob/main/Lesson%201_python-binary-search.ipynb)        | Binary Search, Linked Lists and Complexity      |
 | Assignment 1       | Binary Search Practice     |  
 | Lesson 2      | Binary Search Trees, Traversals, and Recursion     |  
 | Assignment 2      | Hash Tables and Python Dictionaries    | 
